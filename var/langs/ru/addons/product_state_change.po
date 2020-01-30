@@ -19,7 +19,7 @@ msgstr "Состояние товара"
 
 msgctxt "Addons::description::product_state_change"
 msgid "description(product_state_change)"
-msgstr "Позволяет менять состояние состояния товара"
+msgstr "Позволяет менять состояние товара"
 
 
 msgctxt "Languages::product_state"
