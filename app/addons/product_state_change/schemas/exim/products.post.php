@@ -13,7 +13,7 @@
 ****************************************************************************/
 
 $schema['export_fields']['Product state change'] = array (
-    'db_field' => 'product_state'
+	'db_field' => 'product_state'
 );
 
 return $schema;

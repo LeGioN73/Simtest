@@ -43,12 +43,11 @@ if ($mode == 'manage') {
         $field_groups['S']['product_state']['name'] = 'products_data';
         $field_groups['S']['product_state']['variants'] = $product_state;
 
-        $filled_groups['S']['product_state'] =  __('product_state');
+        $filled_groups['S']['product_state'] = __('product_state');
         unset($field_names['product_state']);
     }
 
     Tygh::$app['view']->assign('field_groups', $field_groups);
     Tygh::$app['view']->assign('filled_groups', $filled_groups);
     Tygh::$app['view']->assign('field_names', $field_names);
-
 }
