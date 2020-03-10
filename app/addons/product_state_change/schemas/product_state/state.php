@@ -13,11 +13,11 @@
  ****************************************************************************/
 
 $schema = array (
-	'Ex' => 'excellent',
-	'Av' => 'average',
-	'Go' => 'good',
-	'Po' => 'poor',
-	'De' => 'destroyed',
+    'Ex' => 'excellent',
+    'Av' => 'average',
+    'Go' => 'good',
+    'Po' => 'poor',
+    'De' => 'destroyed',
 );
 
 return $schema;
