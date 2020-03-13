@@ -13,7 +13,7 @@
  ****************************************************************************/
 
 $schema = array (
-    'Ex' => 'excellent', // Class not exist, just for common settings of offer
+    'Ex' => 'excellent',
     'Av' => 'average',
     'Go' => 'good',
     'Po' => 'poor',
